@@ -20,9 +20,9 @@ I've built the promotional activity for the curriculum. Namely, there has **3** 
 
 Here're images about the **extra 10 number of episodes** when you finished purchasing this course.
 
-![]()
+![](https://guestart.github.io/ESIPSYvEOAOADlb1erb/ESIPSYvEOAOADlb1erb-paid-portion-1.png)
 
-![]()
+![](https://guestart.github.io/ESIPSYvEOAOADlb1erb/ESIPSYvEOAOADlb1erb-paid-portion-2.png)
 
 ### Note:
 
