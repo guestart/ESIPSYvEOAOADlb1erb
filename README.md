@@ -35,10 +35,10 @@ Here're images about the **extra 10 number of episodes** when you finished purch
 ## 📚 Course Outline
 
 - **01. Why Oracle Never Needs NOLOCK Hints?** 🎁✅
-  - Video: []()
-  - Slide Deck: []()
-  - Infographic: []()
-  - Similar Podcast App: []()
+  - Video: [The_Oracle_Advantage.mp4](https://guestart.github.io/ESIPSYvEOAOADlb1erb/01.Why-Oracle-Never-Needs-NOLOCK-Hints/The_Oracle_Advantage.mp4)
+  - Slide Deck: [Oracle_Concurrency_and_MVCC.pdf](https://guestart.github.io/ESIPSYvEOAOADlb1erb/01.Why-Oracle-Never-Needs-NOLOCK-Hints/Oracle_Concurrency_and_MVCC.pdf)
+  - Infographic: [Modern_Database_Concurrency_Advantages.png](https://guestart.github.io/ESIPSYvEOAOADlb1erb/01.Why-Oracle-Never-Needs-NOLOCK-Hints/Modern_Database_Concurrency_Advantages.png)
+  - Similar Podcast App: [Podcast-Why_Oracle_Never_Needs_NOLOCK_Hints.html](https://guestart.github.io/ESIPSYvEOAOADlb1erb/01.Why-Oracle-Never-Needs-NOLOCK-Hints/Podcast-Why_Oracle_Never_Needs_NOLOCK_Hints.html)
 
 - **02. The Oracle ORA-00060 Ghost Lock Trap!** 💰🔥
 
@@ -47,10 +47,10 @@ Here're images about the **extra 10 number of episodes** when you finished purch
 - **04. SELECT FOR UPDATE Kills Oracle Performance!** 💰🔥
 
 - **05. Why Oracle DDL Breaks Your Rollbacks?** 🎁✅
-  - Video: []()
-  - Slide Deck: []()
-  - Infographic: []()
-  - Similar Podcast App: []()
+  - Video: [DDL-Implicit_Commits.mp4](https://guestart.github.io/ESIPSYvEOAOADlb1erb/05.Why-Oracle-DDL-Breaks-Your-Rollbacks/DDL-Implicit_Commits.mp4)
+  - Slide Deck: [DDL_in_the_Middle_of_an_Oracle_Transaction.pdf](https://guestart.github.io/ESIPSYvEOAOADlb1erb/05.Why-Oracle-DDL-Breaks-Your-Rollbacks/DDL_in_the_Middle_of_an_Oracle_Transaction.pdf)
+  - Infographic: [Managing_DDL_in_Database_Transactions.png](https://guestart.github.io/ESIPSYvEOAOADlb1erb/05.Why-Oracle-DDL-Breaks-Your-Rollbacks/Managing_DDL_in_Database_Transactions.png)
+  - Similar Podcast App: [Podcast-Why_Oracle_DDL_Breaks_Your_Rollbacks.html](https://guestart.github.io/ESIPSYvEOAOADlb1erb/05.Why-Oracle-DDL-Breaks-Your-Rollbacks/Podcast-Why_Oracle_DDL_Breaks_Your_Rollbacks.html)
 
 - **06. The Oracle Statement Level Rollback Trap!** 💰🔥
 
@@ -59,10 +59,10 @@ Here're images about the **extra 10 number of episodes** when you finished purch
 - **08. Why Silent Database Errors Create Ghost Data?** 💰🔥
 
 - **09. Fixing Oracle Identity Column Drift!** 🎁✅
-  - Video: []()
-  - Slide Deck: []()
-  - Infographic: []()
-  - Similar Podcast App: []()
+  - Video: [Oracle_Identity_Sync.mp4](https://guestart.github.io/ESIPSYvEOAOADlb1erb/09.Fixing-Oracle-Identity-Column-Drift/Oracle_Identity_Sync.mp4)
+  - Slide Deck: [Oracle_Identity_Column_Synchronization.pdf](https://guestart.github.io/ESIPSYvEOAOADlb1erb/09.Fixing-Oracle-Identity-Column-Drift/Oracle_Identity_Column_Synchronization.pdf)
+  - Infographic: [Solving_Database_Identity_Column_Gaps.png](https://guestart.github.io/ESIPSYvEOAOADlb1erb/09.Fixing-Oracle-Identity-Column-Drift/Solving_Database_Identity_Column_Gaps.png)
+  - Similar Podcast App: [Podcast-Fixing_Oracle_Identity_Column_Drift.html](https://guestart.github.io/ESIPSYvEOAOADlb1erb/09.Fixing-Oracle-Identity-Column-Drift/Podcast-Fixing_Oracle_Identity_Column_Drift.html)
 
 - **10. Why Connection Pools Break CURRVAL?** 💰🔥
 
