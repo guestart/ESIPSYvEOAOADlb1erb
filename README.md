@@ -1,8 +1,8 @@
 # 🌟 Elegantly Solving Impressed Pain Spots You’ve Encountered Once About Oracle Application Development (13 episodes) 🌟
 
-![]()
+![](https://guestart.github.io/ESIPSYvEOAOADlb1erb/Mastering-Oracle-Database-7-Critical_Concepts.png)
 
-![]()
+![](https://guestart.github.io/ESIPSYvEOAOADlb1erb/Oracle-PLSQL-and-Sequence-Mastery-Concepts-08-13.png)
 
 ## 📌 Hook
 
